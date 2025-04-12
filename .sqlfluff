@@ -1,0 +1,30 @@
+[sqlfluff]
+# Set the dialect of SQL you're using (e.g., postgres, mysql, snowflake, etc.)
+dialect = postgres
+
+# Specify the rules to apply (leave empty to apply all rules)
+rules = 
+
+# Set the indentation size (default is 4 spaces)
+indent_unit = space
+tab_space_size = 4
+
+# Enable or disable linting for specific rules
+
+# Set the maximum line length
+max_line_length = 80
+
+# Specify whether to fix linting issues automatically
+fix = True
+
+[sqlfluff:rules]
+# Example: Customize specific rules
+# L003: Indentation should be consistent
+indentation_policy = spaces
+
+# L010: Keywords should be uppercase
+capitalisation_policy = consistent
+
+[sqlfluff:templater]
+# Specify the templater to use (e.g., jinja, dbt, etc.)
+templater = jinja
