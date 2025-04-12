@@ -1,0 +1,4 @@
+sqlfluff
+pre-commit
+mypy
+ruff

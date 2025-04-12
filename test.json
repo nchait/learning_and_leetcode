@@ -1,0 +1,2640 @@
+{
+    "@odata.context": "$metadata#Field",
+    "value": [
+        {
+            "@odata.id": "Field('883')",
+            "FieldKey": "883",
+            "FieldName": "AboveGradeFinishedArea"
+        },
+        {
+            "@odata.id": "Field('880')",
+            "FieldKey": "880",
+            "FieldName": "AboveGradeFinishedAreaSource"
+        },
+        {
+            "@odata.id": "Field('901')",
+            "FieldKey": "901",
+            "FieldName": "AboveGradeFinishedAreaSourceOther"
+        },
+        {
+            "@odata.id": "Field('877')",
+            "FieldKey": "877",
+            "FieldName": "AboveGradeFinishedAreaUnits"
+        },
+        {
+            "@odata.id": "Field('1225')",
+            "FieldKey": "1225",
+            "FieldName": "AccessibilityFeatures"
+        },
+        {
+            "@odata.id": "Field('212')",
+            "FieldKey": "212",
+            "FieldName": "AccessToProperty"
+        },
+        {
+            "@odata.id": "Field('214')",
+            "FieldKey": "214",
+            "FieldName": "AddChangeTimestamp"
+        },
+        {
+            "@odata.id": "Field('215')",
+            "FieldKey": "215",
+            "FieldName": "AdditionalMonthlyFee"
+        },
+        {
+            "@odata.id": "Field('216')",
+            "FieldKey": "216",
+            "FieldName": "AdditionalMonthlyFeeFrequency"
+        },
+        {
+            "@odata.id": "Field('217')",
+            "FieldKey": "217",
+            "FieldName": "AdditionalPicturesUrl"
+        },
+        {
+            "@odata.id": "Field('218')",
+            "FieldKey": "218",
+            "FieldName": "AlternateFeatureSheet"
+        },
+        {
+            "@odata.id": "Field('219')",
+            "FieldKey": "219",
+            "FieldName": "AlternativePower"
+        },
+        {
+            "@odata.id": "Field('220')",
+            "FieldKey": "220",
+            "FieldName": "Amps"
+        },
+        {
+            "@odata.id": "Field('223')",
+            "FieldKey": "223",
+            "FieldName": "ApartmentNumber"
+        },
+        {
+            "@odata.id": "Field('429')",
+            "FieldKey": "429",
+            "FieldName": "ApproximateAge"
+        },
+        {
+            "@odata.id": "Field('1')",
+            "FieldKey": "1",
+            "FieldName": "ArchitecturalStyle"
+        },
+        {
+            "@odata.id": "Field('226')",
+            "FieldKey": "226",
+            "FieldName": "AssessmentYear"
+        },
+        {
+            "@odata.id": "Field('590')",
+            "FieldKey": "590",
+            "FieldName": "AssignmentYN"
+        },
+        {
+            "@odata.id": "Field('2')",
+            "FieldKey": "2",
+            "FieldName": "AssociationAmenities"
+        },
+        {
+            "@odata.id": "Field('3')",
+            "FieldKey": "3",
+            "FieldName": "AssociationFee"
+        },
+        {
+            "@odata.id": "Field('1262')",
+            "FieldKey": "1262",
+            "FieldName": "AssociationFeeFrequency"
+        },
+        {
+            "@odata.id": "Field('5')",
+            "FieldKey": "5",
+            "FieldName": "AssociationFeeIncludes"
+        },
+        {
+            "@odata.id": "Field('6')",
+            "FieldKey": "6",
+            "FieldName": "AssociationName"
+        },
+        {
+            "@odata.id": "Field('7')",
+            "FieldKey": "7",
+            "FieldName": "AssociationYN"
+        },
+        {
+            "@odata.id": "Field('8')",
+            "FieldKey": "8",
+            "FieldName": "AttachedGarageYN"
+        },
+        {
+            "@odata.id": "Field('707')",
+            "FieldKey": "707",
+            "FieldName": "BackOnMarketEntryTimestamp"
+        },
+        {
+            "@odata.id": "Field('324')",
+            "FieldKey": "324",
+            "FieldName": "BalconyType"
+        },
+        {
+            "@odata.id": "Field('9')",
+            "FieldKey": "9",
+            "FieldName": "Basement"
+        },
+        {
+            "@odata.id": "Field('10')",
+            "FieldKey": "10",
+            "FieldName": "BasementYN"
+        },
+        {
+            "@odata.id": "Field('15')",
+            "FieldKey": "15",
+            "FieldName": "BathroomsTotalInteger"
+        },
+        {
+            "@odata.id": "Field('229')",
+            "FieldKey": "229",
+            "FieldName": "BaySizeLengthFeet"
+        },
+        {
+            "@odata.id": "Field('230')",
+            "FieldKey": "230",
+            "FieldName": "BaySizeLengthInches"
+        },
+        {
+            "@odata.id": "Field('227')",
+            "FieldKey": "227",
+            "FieldName": "BaySizeWidthFeet"
+        },
+        {
+            "@odata.id": "Field('228')",
+            "FieldKey": "228",
+            "FieldName": "BaySizeWidthInches"
+        },
+        {
+            "@odata.id": "Field('231')",
+            "FieldKey": "231",
+            "FieldName": "BedroomsAboveGrade"
+        },
+        {
+            "@odata.id": "Field('233')",
+            "FieldKey": "233",
+            "FieldName": "BedroomsBelowGrade"
+        },
+        {
+            "@odata.id": "Field('16')",
+            "FieldKey": "16",
+            "FieldName": "BedroomsTotal"
+        },
+        {
+            "@odata.id": "Field('886')",
+            "FieldKey": "886",
+            "FieldName": "BelowGradeFinishedArea"
+        },
+        {
+            "@odata.id": "Field('889')",
+            "FieldKey": "889",
+            "FieldName": "BelowGradeFinishedAreaSource"
+        },
+        {
+            "@odata.id": "Field('892')",
+            "FieldKey": "892",
+            "FieldName": "BelowGradeFinishedAreaUnits"
+        },
+        {
+            "@odata.id": "Field('240')",
+            "FieldKey": "240",
+            "FieldName": "BoardPropertyType"
+        },
+        {
+            "@odata.id": "Field('232')",
+            "FieldKey": "232",
+            "FieldName": "BrokerFaxNumber"
+        },
+        {
+            "@odata.id": "Field('1265')",
+            "FieldKey": "1265",
+            "FieldName": "BuildingAreaSource"
+        },
+        {
+            "@odata.id": "Field('18')",
+            "FieldKey": "18",
+            "FieldName": "BuildingAreaTotal"
+        },
+        {
+            "@odata.id": "Field('19')",
+            "FieldKey": "19",
+            "FieldName": "BuildingAreaUnits"
+        },
+        {
+            "@odata.id": "Field('20')",
+            "FieldKey": "20",
+            "FieldName": "BuildingName"
+        },
+        {
+            "@odata.id": "Field('21')",
+            "FieldKey": "21",
+            "FieldName": "BusinessName"
+        },
+        {
+            "@odata.id": "Field('22')",
+            "FieldKey": "22",
+            "FieldName": "BusinessType"
+        },
+        {
+            "@odata.id": "Field('27')",
+            "FieldKey": "27",
+            "FieldName": "BuyerAgentFullName"
+        },
+        {
+            "@odata.id": "Field('28')",
+            "FieldKey": "28",
+            "FieldName": "BuyerAgentKey"
+        },
+        {
+            "@odata.id": "Field('33')",
+            "FieldKey": "33",
+            "FieldName": "BuyerOfficeKey"
+        },
+        {
+            "@odata.id": "Field('36')",
+            "FieldKey": "36",
+            "FieldName": "BuyerOfficeName"
+        },
+        {
+            "@odata.id": "Field('313')",
+            "FieldKey": "313",
+            "FieldName": "BuyOptionYN"
+        },
+        {
+            "@odata.id": "Field('571')",
+            "FieldKey": "571",
+            "FieldName": "CableYNA"
+        },
+        {
+            "@odata.id": "Field('37')",
+            "FieldKey": "37",
+            "FieldName": "CarportSpaces"
+        },
+        {
+            "@odata.id": "Field('566')",
+            "FieldKey": "566",
+            "FieldName": "CentralVacuumYN"
+        },
+        {
+            "@odata.id": "Field('736')",
+            "FieldKey": "736",
+            "FieldName": "ChangedByMemberKey"
+        },
+        {
+            "@odata.id": "Field('1201')",
+            "FieldKey": "1201",
+            "FieldName": "ChannelName"
+        },
+        {
+            "@odata.id": "Field('239')",
+            "FieldKey": "239",
+            "FieldName": "ChattelsYN"
+        },
+        {
+            "@odata.id": "Field('38')",
+            "FieldKey": "38",
+            "FieldName": "City"
+        },
+        {
+            "@odata.id": "Field('39')",
+            "FieldKey": "39",
+            "FieldName": "CityRegion"
+        },
+        {
+            "@odata.id": "Field('236')",
+            "FieldKey": "236",
+            "FieldName": "ClearHeightFeet"
+        },
+        {
+            "@odata.id": "Field('237')",
+            "FieldKey": "237",
+            "FieldName": "ClearHeightInches"
+        },
+        {
+            "@odata.id": "Field('40')",
+            "FieldKey": "40",
+            "FieldName": "CloseDate"
+        },
+        {
+            "@odata.id": "Field('702')",
+            "FieldKey": "702",
+            "FieldName": "CloseDateHold"
+        },
+        {
+            "@odata.id": "Field('41')",
+            "FieldKey": "41",
+            "FieldName": "ClosePrice"
+        },
+        {
+            "@odata.id": "Field('699')",
+            "FieldKey": "699",
+            "FieldName": "ClosePriceHold"
+        },
+        {
+            "@odata.id": "Field('1684')",
+            "FieldKey": "1684",
+            "FieldName": "CoBuyerAgent3Email"
+        },
+        {
+            "@odata.id": "Field('1679')",
+            "FieldKey": "1679",
+            "FieldName": "CoBuyerAgent3FullName"
+        },
+        {
+            "@odata.id": "Field('1586')",
+            "FieldKey": "1586",
+            "FieldName": "CoBuyerAgent3PreferredPhone"
+        },
+        {
+            "@odata.id": "Field('1595')",
+            "FieldKey": "1595",
+            "FieldName": "CoBuyerAgent4Email"
+        },
+        {
+            "@odata.id": "Field('1676')",
+            "FieldKey": "1676",
+            "FieldName": "CoBuyerAgent4FullName"
+        },
+        {
+            "@odata.id": "Field('1592')",
+            "FieldKey": "1592",
+            "FieldName": "CoBuyerAgent4PreferredPhone"
+        },
+        {
+            "@odata.id": "Field('1583')",
+            "FieldKey": "1583",
+            "FieldName": "CoBuyerAgentEmail"
+        },
+        {
+            "@odata.id": "Field('45')",
+            "FieldKey": "45",
+            "FieldName": "CoBuyerAgentFullName"
+        },
+        {
+            "@odata.id": "Field('46')",
+            "FieldKey": "46",
+            "FieldName": "CoBuyerAgentKey"
+        },
+        {
+            "@odata.id": "Field('1652')",
+            "FieldKey": "1652",
+            "FieldName": "CoBuyerAgentKey3"
+        },
+        {
+            "@odata.id": "Field('1661')",
+            "FieldKey": "1661",
+            "FieldName": "CoBuyerAgentKey4"
+        },
+        {
+            "@odata.id": "Field('1580')",
+            "FieldKey": "1580",
+            "FieldName": "CoBuyerAgentPreferredPhone"
+        },
+        {
+            "@odata.id": "Field('51')",
+            "FieldKey": "51",
+            "FieldName": "CoBuyerOfficeKey"
+        },
+        {
+            "@odata.id": "Field('1658')",
+            "FieldKey": "1658",
+            "FieldName": "CoBuyerOfficeKey3"
+        },
+        {
+            "@odata.id": "Field('1667')",
+            "FieldKey": "1667",
+            "FieldName": "CoBuyerOfficeKey4"
+        },
+        {
+            "@odata.id": "Field('54')",
+            "FieldKey": "54",
+            "FieldName": "CoBuyerOfficeName"
+        },
+        {
+            "@odata.id": "Field('1655')",
+            "FieldKey": "1655",
+            "FieldName": "CoBuyerOfficeName3"
+        },
+        {
+            "@odata.id": "Field('1664')",
+            "FieldKey": "1664",
+            "FieldName": "CoBuyerOfficeName4"
+        },
+        {
+            "@odata.id": "Field('1568')",
+            "FieldKey": "1568",
+            "FieldName": "CoListAgent3Email"
+        },
+        {
+            "@odata.id": "Field('1670')",
+            "FieldKey": "1670",
+            "FieldName": "CoListAgent3FullName"
+        },
+        {
+            "@odata.id": "Field('1685')",
+            "FieldKey": "1685",
+            "FieldName": "CoListAgent3Key"
+        },
+        {
+            "@odata.id": "Field('1565')",
+            "FieldKey": "1565",
+            "FieldName": "CoListAgent3PreferredPhone"
+        },
+        {
+            "@odata.id": "Field('1577')",
+            "FieldKey": "1577",
+            "FieldName": "CoListAgent4Email"
+        },
+        {
+            "@odata.id": "Field('1673')",
+            "FieldKey": "1673",
+            "FieldName": "CoListAgent4FullName"
+        },
+        {
+            "@odata.id": "Field('1688')",
+            "FieldKey": "1688",
+            "FieldName": "CoListAgent4Key"
+        },
+        {
+            "@odata.id": "Field('1574')",
+            "FieldKey": "1574",
+            "FieldName": "CoListAgent4PreferredPhone"
+        },
+        {
+            "@odata.id": "Field('1268')",
+            "FieldKey": "1268",
+            "FieldName": "CoListAgentAOR"
+        },
+        {
+            "@odata.id": "Field('655')",
+            "FieldKey": "655",
+            "FieldName": "CoListAgentDirectPhone"
+        },
+        {
+            "@odata.id": "Field('1562')",
+            "FieldKey": "1562",
+            "FieldName": "CoListAgentEmail"
+        },
+        {
+            "@odata.id": "Field('58')",
+            "FieldKey": "58",
+            "FieldName": "CoListAgentFullName"
+        },
+        {
+            "@odata.id": "Field('59')",
+            "FieldKey": "59",
+            "FieldName": "CoListAgentKey"
+        },
+        {
+            "@odata.id": "Field('1634')",
+            "FieldKey": "1634",
+            "FieldName": "CoListAgentKey3"
+        },
+        {
+            "@odata.id": "Field('1643')",
+            "FieldKey": "1643",
+            "FieldName": "CoListAgentKey4"
+        },
+        {
+            "@odata.id": "Field('1643')",
+            "FieldKey": "1643",
+            "FieldName": "CoListAgentKey4"
+        },
+        {
+            "@odata.id": "Field('1559')",
+            "FieldKey": "1559",
+            "FieldName": "CoListAgentPreferredPhone"
+        },
+        {
+            "@odata.id": "Field('65')",
+            "FieldKey": "65",
+            "FieldName": "CoListOfficeKey"
+        },
+        {
+            "@odata.id": "Field('1640')",
+            "FieldKey": "1640",
+            "FieldName": "CoListOfficeKey3"
+        },
+        {
+            "@odata.id": "Field('1649')",
+            "FieldKey": "1649",
+            "FieldName": "CoListOfficeKey4"
+        },
+        {
+            "@odata.id": "Field('68')",
+            "FieldKey": "68",
+            "FieldName": "CoListOfficeName"
+        },
+        {
+            "@odata.id": "Field('1637')",
+            "FieldKey": "1637",
+            "FieldName": "CoListOfficeName3"
+        },
+        {
+            "@odata.id": "Field('1646')",
+            "FieldKey": "1646",
+            "FieldName": "CoListOfficeName4"
+        },
+        {
+            "@odata.id": "Field('69')",
+            "FieldKey": "69",
+            "FieldName": "CoListOfficePhone"
+        },
+        {
+            "@odata.id": "Field('243')",
+            "FieldKey": "243",
+            "FieldName": "CommercialCondoFee"
+        },
+        {
+            "@odata.id": "Field('244')",
+            "FieldKey": "244",
+            "FieldName": "CommercialCondoFeeFrequency"
+        },
+        {
+            "@odata.id": "Field('591')",
+            "FieldKey": "591",
+            "FieldName": "CommonAreaUpcharge"
+        },
+        {
+            "@odata.id": "Field('71')",
+            "FieldKey": "71",
+            "FieldName": "CommunityFeatures"
+        },
+        {
+            "@odata.id": "Field('242')",
+            "FieldKey": "242",
+            "FieldName": "ConditionalExpiryDate"
+        },
+        {
+            "@odata.id": "Field('246')",
+            "FieldKey": "246",
+            "FieldName": "ConditionOfSale"
+        },
+        {
+            "@odata.id": "Field('249')",
+            "FieldKey": "249",
+            "FieldName": "CondoCorpNumber"
+        },
+        {
+            "@odata.id": "Field('72')",
+            "FieldKey": "72",
+            "FieldName": "ConstructionMaterials"
+        },
+        {
+            "@odata.id": "Field('248')",
+            "FieldKey": "248",
+            "FieldName": "ContactAfterExpiryYN"
+        },
+        {
+            "@odata.id": "Field('388')",
+            "FieldKey": "388",
+            "FieldName": "ContractStatus"
+        },
+        {
+            "@odata.id": "Field('73')",
+            "FieldKey": "73",
+            "FieldName": "Cooling"
+        },
+        {
+            "@odata.id": "Field('74')",
+            "FieldKey": "74",
+            "FieldName": "CoolingYN"
+        },
+        {
+            "@odata.id": "Field('75')",
+            "FieldKey": "75",
+            "FieldName": "Country"
+        },
+        {
+            "@odata.id": "Field('76')",
+            "FieldKey": "76",
+            "FieldName": "CountyOrParish"
+        },
+        {
+            "@odata.id": "Field('77')",
+            "FieldKey": "77",
+            "FieldName": "CoveredSpaces"
+        },
+        {
+            "@odata.id": "Field('250')",
+            "FieldKey": "250",
+            "FieldName": "CraneYN"
+        },
+        {
+            "@odata.id": "Field('862')",
+            "FieldKey": "862",
+            "FieldName": "CreateDate"
+        },
+        {
+            "@odata.id": "Field('742')",
+            "FieldKey": "742",
+            "FieldName": "CreatedInAmp"
+        },
+        {
+            "@odata.id": "Field('251')",
+            "FieldKey": "251",
+            "FieldName": "CreditCheckYN"
+        },
+        {
+            "@odata.id": "Field('78')",
+            "FieldKey": "78",
+            "FieldName": "CrossStreet"
+        },
+        {
+            "@odata.id": "Field('79')",
+            "FieldKey": "79",
+            "FieldName": "DaysOnMarket"
+        },
+        {
+            "@odata.id": "Field('252')",
+            "FieldKey": "252",
+            "FieldName": "DDFYN"
+        },
+        {
+            "@odata.id": "Field('708')",
+            "FieldKey": "708",
+            "FieldName": "DealFellThroughEntryTimestamp"
+        },
+        {
+            "@odata.id": "Field('253')",
+            "FieldKey": "253",
+            "FieldName": "DenFamilyroomYN"
+        },
+        {
+            "@odata.id": "Field('353')",
+            "FieldKey": "353",
+            "FieldName": "DepositRequired"
+        },
+        {
+            "@odata.id": "Field('1204')",
+            "FieldKey": "1204",
+            "FieldName": "DevelopmentChargesPaid"
+        },
+        {
+            "@odata.id": "Field('80')",
+            "FieldKey": "80",
+            "FieldName": "DirectionFaces"
+        },
+        {
+            "@odata.id": "Field('1613')",
+            "FieldKey": "1613",
+            "FieldName": "Directions"
+        },
+        {
+            "@odata.id": "Field('234')",
+            "FieldKey": "234",
+            "FieldName": "DirectloadYN"
+        },
+        {
+            "@odata.id": "Field('256')",
+            "FieldKey": "256",
+            "FieldName": "DiscloseAfterClosingDate"
+        },
+        {
+            "@odata.id": "Field('81')",
+            "FieldKey": "81",
+            "FieldName": "Disclosures"
+        },
+        {
+            "@odata.id": "Field('1195')",
+            "FieldKey": "1195",
+            "FieldName": "DockingType"
+        },
+        {
+            "@odata.id": "Field('575')",
+            "FieldKey": "575",
+            "FieldName": "DocumentsChangeTimestamp"
+        },
+        {
+            "@odata.id": "Field('258')",
+            "FieldKey": "258",
+            "FieldName": "DoNotDiscloseUntilClosingYN"
+        },
+        {
+            "@odata.id": "Field('363')",
+            "FieldKey": "363",
+            "FieldName": "DoubleManShippingDoors"
+        },
+        {
+            "@odata.id": "Field('361')",
+            "FieldKey": "361",
+            "FieldName": "DoubleManShippingDoorsHeightFeet"
+        },
+        {
+            "@odata.id": "Field('362')",
+            "FieldKey": "362",
+            "FieldName": "DoubleManShippingDoorsHeightInches"
+        },
+        {
+            "@odata.id": "Field('364')",
+            "FieldKey": "364",
+            "FieldName": "DoubleManShippingDoorsWidthFeet"
+        },
+        {
+            "@odata.id": "Field('365')",
+            "FieldKey": "365",
+            "FieldName": "DoubleManShippingDoorsWidthInches"
+        },
+        {
+            "@odata.id": "Field('760')",
+            "FieldKey": "760",
+            "FieldName": "DraftKey"
+        },
+        {
+            "@odata.id": "Field('358')",
+            "FieldKey": "358",
+            "FieldName": "DriveInLevelShippingDoors"
+        },
+        {
+            "@odata.id": "Field('578')",
+            "FieldKey": "578",
+            "FieldName": "DriveInLevelShippingDoorsHeightFeet"
+        },
+        {
+            "@odata.id": "Field('579')",
+            "FieldKey": "579",
+            "FieldName": "DriveInLevelShippingDoorsHeightInches"
+        },
+        {
+            "@odata.id": "Field('580')",
+            "FieldKey": "580",
+            "FieldName": "DriveInLevelShippingDoorsWidthFeet"
+        },
+        {
+            "@odata.id": "Field('581')",
+            "FieldKey": "581",
+            "FieldName": "DriveInLevelShippingDoorsWidthInches"
+        },
+        {
+            "@odata.id": "Field('261')",
+            "FieldKey": "261",
+            "FieldName": "DuplicateListingYN"
+        },
+        {
+            "@odata.id": "Field('83')",
+            "FieldKey": "83",
+            "FieldName": "ElectricExpense"
+        },
+        {
+            "@odata.id": "Field('84')",
+            "FieldKey": "84",
+            "FieldName": "ElectricOnPropertyYN"
+        },
+        {
+            "@odata.id": "Field('567')",
+            "FieldKey": "567",
+            "FieldName": "ElectricYNA"
+        },
+        {
+            "@odata.id": "Field('262')",
+            "FieldKey": "262",
+            "FieldName": "ElevatorType"
+        },
+        {
+            "@odata.id": "Field('263')",
+            "FieldKey": "263",
+            "FieldName": "ElevatorYN"
+        },
+        {
+            "@odata.id": "Field('264')",
+            "FieldKey": "264",
+            "FieldName": "EmploymentLetterYN"
+        },
+        {
+            "@odata.id": "Field('265')",
+            "FieldKey": "265",
+            "FieldName": "EnergyCertificate"
+        },
+        {
+            "@odata.id": "Field('266')",
+            "FieldKey": "266",
+            "FieldName": "EnsuiteLaundryYN"
+        },
+        {
+            "@odata.id": "Field('267')",
+            "FieldKey": "267",
+            "FieldName": "EscapeClauseHours"
+        },
+        {
+            "@odata.id": "Field('268')",
+            "FieldKey": "268",
+            "FieldName": "EscapeClauseYN"
+        },
+        {
+            "@odata.id": "Field('285')",
+            "FieldKey": "285",
+            "FieldName": "EstimatedInventoryValueAtCost"
+        },
+        {
+            "@odata.id": "Field('725')",
+            "FieldKey": "725",
+            "FieldName": "Exclusions"
+        },
+        {
+            "@odata.id": "Field('269')",
+            "FieldKey": "269",
+            "FieldName": "ExerciseRoomGym"
+        },
+        {
+            "@odata.id": "Field('270')",
+            "FieldKey": "270",
+            "FieldName": "Expenses"
+        },
+        {
+            "@odata.id": "Field('85')",
+            "FieldKey": "85",
+            "FieldName": "ExpirationDate"
+        },
+        {
+            "@odata.id": "Field('247')",
+            "FieldKey": "247",
+            "FieldName": "Exposure"
+        },
+        {
+            "@odata.id": "Field('709')",
+            "FieldKey": "709",
+            "FieldName": "ExtensionEntryTimestamp"
+        },
+        {
+            "@odata.id": "Field('86')",
+            "FieldKey": "86",
+            "FieldName": "ExteriorFeatures"
+        },
+        {
+            "@odata.id": "Field('1619')",
+            "FieldKey": "1619",
+            "FieldName": "FarmFeatures"
+        },
+        {
+            "@odata.id": "Field('272')",
+            "FieldKey": "272",
+            "FieldName": "FarmType"
+        },
+        {
+            "@odata.id": "Field('273')",
+            "FieldKey": "273",
+            "FieldName": "FinancialStatementAvailableYN"
+        },
+        {
+            "@odata.id": "Field('1228')",
+            "FieldKey": "1228",
+            "FieldName": "FireplaceFeatures"
+        },
+        {
+            "@odata.id": "Field('1231')",
+            "FieldKey": "1231",
+            "FieldName": "FireplacesTotal"
+        },
+        {
+            "@odata.id": "Field('87')",
+            "FieldKey": "87",
+            "FieldName": "FireplaceYN"
+        },
+        {
+            "@odata.id": "Field('1210')",
+            "FieldKey": "1210",
+            "FieldName": "FoundationDetails"
+        },
+        {
+            "@odata.id": "Field('589')",
+            "FieldKey": "589",
+            "FieldName": "FractionalOwnershipYN"
+        },
+        {
+            "@odata.id": "Field('274')",
+            "FieldKey": "274",
+            "FieldName": "FranchiseYN"
+        },
+        {
+            "@odata.id": "Field('275')",
+            "FieldKey": "275",
+            "FieldName": "FreestandingYN"
+        },
+        {
+            "@odata.id": "Field('89')",
+            "FieldKey": "89",
+            "FieldName": "FrontageLength"
+        },
+        {
+            "@odata.id": "Field('90')",
+            "FieldKey": "90",
+            "FieldName": "Furnished"
+        },
+        {
+            "@odata.id": "Field('276')",
+            "FieldKey": "276",
+            "FieldName": "GarageParkingSpaces"
+        },
+        {
+            "@odata.id": "Field('277')",
+            "FieldKey": "277",
+            "FieldName": "GarageType"
+        },
+        {
+            "@odata.id": "Field('92')",
+            "FieldKey": "92",
+            "FieldName": "GarageYN"
+        },
+        {
+            "@odata.id": "Field('572')",
+            "FieldKey": "572",
+            "FieldName": "GasYNA"
+        },
+        {
+            "@odata.id": "Field('739')",
+            "FieldKey": "739",
+            "FieldName": "GeoCodeSyndication"
+        },
+        {
+            "@odata.id": "Field('368')",
+            "FieldKey": "368",
+            "FieldName": "GradeLevelShippingDoors"
+        },
+        {
+            "@odata.id": "Field('366')",
+            "FieldKey": "366",
+            "FieldName": "GradeLevelShippingDoorsHeightFeet"
+        },
+        {
+            "@odata.id": "Field('367')",
+            "FieldKey": "367",
+            "FieldName": "GradeLevelShippingDoorsHeightInches"
+        },
+        {
+            "@odata.id": "Field('369')",
+            "FieldKey": "369",
+            "FieldName": "GradeLevelShippingDoorsWidthFeet"
+        },
+        {
+            "@odata.id": "Field('370')",
+            "FieldKey": "370",
+            "FieldName": "GradeLevelShippingDoorsWidthInches"
+        },
+        {
+            "@odata.id": "Field('238')",
+            "FieldKey": "238",
+            "FieldName": "GreenCertificationLevel"
+        },
+        {
+            "@odata.id": "Field('278')",
+            "FieldKey": "278",
+            "FieldName": "GreenPropertyInformationStatement"
+        },
+        {
+            "@odata.id": "Field('279')",
+            "FieldKey": "279",
+            "FieldName": "GrossRevenue"
+        },
+        {
+            "@odata.id": "Field('280')",
+            "FieldKey": "280",
+            "FieldName": "HandicappedEquippedYN"
+        },
+        {
+            "@odata.id": "Field('281')",
+            "FieldKey": "281",
+            "FieldName": "HeatingExpenses"
+        },
+        {
+            "@odata.id": "Field('95')",
+            "FieldKey": "95",
+            "FieldName": "HeatingYN"
+        },
+        {
+            "@odata.id": "Field('519')",
+            "FieldKey": "519",
+            "FieldName": "HeatSource"
+        },
+        {
+            "@odata.id": "Field('520')",
+            "FieldKey": "520",
+            "FieldName": "HeatType"
+        },
+        {
+            "@odata.id": "Field('282')",
+            "FieldKey": "282",
+            "FieldName": "HoldoverDays"
+        },
+        {
+            "@odata.id": "Field('96')",
+            "FieldKey": "96",
+            "FieldName": "HoursDaysOfOperation"
+        },
+        {
+            "@odata.id": "Field('97')",
+            "FieldKey": "97",
+            "FieldName": "HoursDaysOfOperationDescription"
+        },
+        {
+            "@odata.id": "Field('1207')",
+            "FieldKey": "1207",
+            "FieldName": "HSTApplication"
+        },
+        {
+            "@odata.id": "Field('574')",
+            "FieldKey": "574",
+            "FieldName": "ImportTimestamp"
+        },
+        {
+            "@odata.id": "Field('724')",
+            "FieldKey": "724",
+            "FieldName": "Inclusions"
+        },
+        {
+            "@odata.id": "Field('283')",
+            "FieldKey": "283",
+            "FieldName": "IndustrialArea"
+        },
+        {
+            "@odata.id": "Field('284')",
+            "FieldKey": "284",
+            "FieldName": "IndustrialAreaCode"
+        },
+        {
+            "@odata.id": "Field('98')",
+            "FieldKey": "98",
+            "FieldName": "InsuranceExpense"
+        },
+        {
+            "@odata.id": "Field('1240')",
+            "FieldKey": "1240",
+            "FieldName": "InteriorFeatures"
+        },
+        {
+            "@odata.id": "Field('100')",
+            "FieldKey": "100",
+            "FieldName": "InternetAddressDisplayYN"
+        },
+        {
+            "@odata.id": "Field('101')",
+            "FieldKey": "101",
+            "FieldName": "InternetEntireListingDisplayYN"
+        },
+        {
+            "@odata.id": "Field('1550')",
+            "FieldKey": "1550",
+            "FieldName": "IslandYN"
+        },
+        {
+            "@odata.id": "Field('697')",
+            "FieldKey": "697",
+            "FieldName": "KitchensAboveGrade"
+        },
+        {
+            "@odata.id": "Field('698')",
+            "FieldKey": "698",
+            "FieldName": "KitchensBelowGrade"
+        },
+        {
+            "@odata.id": "Field('288')",
+            "FieldKey": "288",
+            "FieldName": "KitchensTotal"
+        },
+        {
+            "@odata.id": "Field('102')",
+            "FieldKey": "102",
+            "FieldName": "Latitude"
+        },
+        {
+            "@odata.id": "Field('103')",
+            "FieldKey": "103",
+            "FieldName": "LaundryFeatures"
+        },
+        {
+            "@odata.id": "Field('562')",
+            "FieldKey": "562",
+            "FieldName": "LaundryLevel"
+        },
+        {
+            "@odata.id": "Field('290')",
+            "FieldKey": "290",
+            "FieldName": "LeaseAgreementYN"
+        },
+        {
+            "@odata.id": "Field('586')",
+            "FieldKey": "586",
+            "FieldName": "LeaseAmount"
+        },
+        {
+            "@odata.id": "Field('710')",
+            "FieldKey": "710",
+            "FieldName": "LeasedConditionalEntryTimestamp"
+        },
+        {
+            "@odata.id": "Field('711')",
+            "FieldKey": "711",
+            "FieldName": "LeasedEntryTimestamp"
+        },
+        {
+            "@odata.id": "Field('1529')",
+            "FieldKey": "1529",
+            "FieldName": "LeasedLandFee"
+        },
+        {
+            "@odata.id": "Field('299')",
+            "FieldKey": "299",
+            "FieldName": "LeasedTerms"
+        },
+        {
+            "@odata.id": "Field('104')",
+            "FieldKey": "104",
+            "FieldName": "LeaseTerm"
+        },
+        {
+            "@odata.id": "Field('1237')",
+            "FieldKey": "1237",
+            "FieldName": "LeaseToOwnEquipment"
+        },
+        {
+            "@odata.id": "Field('553')",
+            "FieldKey": "553",
+            "FieldName": "LegalApartmentNumber"
+        },
+        {
+            "@odata.id": "Field('391')",
+            "FieldKey": "391",
+            "FieldName": "LegalStories"
+        },
+        {
+            "@odata.id": "Field('291')",
+            "FieldKey": "291",
+            "FieldName": "LinkProperty"
+        },
+        {
+            "@odata.id": "Field('292')",
+            "FieldKey": "292",
+            "FieldName": "LinkYN"
+        },
+        {
+            "@odata.id": "Field('576')",
+            "FieldKey": "576",
+            "FieldName": "LiquorLicenseYN"
+        },
+        {
+            "@odata.id": "Field('1271')",
+            "FieldKey": "1271",
+            "FieldName": "ListAgentAOR"
+        },
+        {
+            "@odata.id": "Field('656')",
+            "FieldKey": "656",
+            "FieldName": "ListAgentDirectPhone"
+        },
+        {
+            "@odata.id": "Field('1556')",
+            "FieldKey": "1556",
+            "FieldName": "ListAgentEmail"
+        },
+        {
+            "@odata.id": "Field('110')",
+            "FieldKey": "110",
+            "FieldName": "ListAgentFullName"
+        },
+        {
+            "@odata.id": "Field('111')",
+            "FieldKey": "111",
+            "FieldName": "ListAgentKey"
+        },
+        {
+            "@odata.id": "Field('115')",
+            "FieldKey": "115",
+            "FieldName": "ListAgentOfficePhone"
+        },
+        {
+            "@odata.id": "Field('563')",
+            "FieldKey": "563",
+            "FieldName": "ListAOR"
+        },
+        {
+            "@odata.id": "Field('245')",
+            "FieldKey": "245",
+            "FieldName": "ListingComments"
+        },
+        {
+            "@odata.id": "Field('124')",
+            "FieldKey": "124",
+            "FieldName": "ListingContractDate"
+        },
+        {
+            "@odata.id": "Field('125')",
+            "FieldKey": "125",
+            "FieldName": "ListingId"
+        },
+        {
+            "@odata.id": "Field('126')",
+            "FieldKey": "126",
+            "FieldName": "ListingKey"
+        },
+        {
+            "@odata.id": "Field('1501')",
+            "FieldKey": "1501",
+            "FieldName": "ListOfficeAOR"
+        },
+        {
+            "@odata.id": "Field('731')",
+            "FieldKey": "731",
+            "FieldName": "ListOfficeFax"
+        },
+        {
+            "@odata.id": "Field('118')",
+            "FieldKey": "118",
+            "FieldName": "ListOfficeKey"
+        },
+        {
+            "@odata.id": "Field('121')",
+            "FieldKey": "121",
+            "FieldName": "ListOfficeName"
+        },
+        {
+            "@odata.id": "Field('122')",
+            "FieldKey": "122",
+            "FieldName": "ListOfficePhone"
+        },
+        {
+            "@odata.id": "Field('123')",
+            "FieldKey": "123",
+            "FieldName": "ListPrice"
+        },
+        {
+            "@odata.id": "Field('298')",
+            "FieldKey": "298",
+            "FieldName": "ListPriceUnit"
+        },
+        {
+            "@odata.id": "Field('382')",
+            "FieldKey": "382",
+            "FieldName": "LivingAreaRange"
+        },
+        {
+            "@odata.id": "Field('1280')",
+            "FieldKey": "1280",
+            "FieldName": "LivingAreaSource"
+        },
+        {
+            "@odata.id": "Field('1274')",
+            "FieldKey": "1274",
+            "FieldName": "LivingAreaUnits"
+        },
+        {
+            "@odata.id": "Field('1532')",
+            "FieldKey": "1532",
+            "FieldName": "LocalImprovements"
+        },
+        {
+            "@odata.id": "Field('1535')",
+            "FieldKey": "1535",
+            "FieldName": "LocalImprovementsComments"
+        },
+        {
+            "@odata.id": "Field('293')",
+            "FieldKey": "293",
+            "FieldName": "Locker"
+        },
+        {
+            "@odata.id": "Field('294')",
+            "FieldKey": "294",
+            "FieldName": "LockerLevel"
+        },
+        {
+            "@odata.id": "Field('295')",
+            "FieldKey": "295",
+            "FieldName": "LockerNumber"
+        },
+        {
+            "@odata.id": "Field('296')",
+            "FieldKey": "296",
+            "FieldName": "LockerUnit"
+        },
+        {
+            "@odata.id": "Field('129')",
+            "FieldKey": "129",
+            "FieldName": "Longitude"
+        },
+        {
+            "@odata.id": "Field('254')",
+            "FieldKey": "254",
+            "FieldName": "LotDepth"
+        },
+        {
+            "@odata.id": "Field('130')",
+            "FieldKey": "130",
+            "FieldName": "LotDimensionsSource"
+        },
+        {
+            "@odata.id": "Field('131')",
+            "FieldKey": "131",
+            "FieldName": "LotFeatures"
+        },
+        {
+            "@odata.id": "Field('286')",
+            "FieldKey": "286",
+            "FieldName": "LotIrregularities"
+        },
+        {
+            "@odata.id": "Field('1246')",
+            "FieldKey": "1246",
+            "FieldName": "LotShape"
+        },
+        {
+            "@odata.id": "Field('1502')",
+            "FieldKey": "1502",
+            "FieldName": "LotSizeArea"
+        },
+        {
+            "@odata.id": "Field('1505')",
+            "FieldKey": "1505",
+            "FieldName": "LotSizeAreaUnits"
+        },
+        {
+            "@odata.id": "Field('132')",
+            "FieldKey": "132",
+            "FieldName": "LotSizeDimensions"
+        },
+        {
+            "@odata.id": "Field('213')",
+            "FieldKey": "213",
+            "FieldName": "LotSizeRangeAcres"
+        },
+        {
+            "@odata.id": "Field('133')",
+            "FieldKey": "133",
+            "FieldName": "LotSizeSource"
+        },
+        {
+            "@odata.id": "Field('134')",
+            "FieldKey": "134",
+            "FieldName": "LotSizeUnits"
+        },
+        {
+            "@odata.id": "Field('297')",
+            "FieldKey": "297",
+            "FieldName": "LotType"
+        },
+        {
+            "@odata.id": "Field('658')",
+            "FieldKey": "658",
+            "FieldName": "LotWidth"
+        },
+        {
+            "@odata.id": "Field('137')",
+            "FieldKey": "137",
+            "FieldName": "MainLevelBathrooms"
+        },
+        {
+            "@odata.id": "Field('138')",
+            "FieldKey": "138",
+            "FieldName": "MainLevelBedrooms"
+        },
+        {
+            "@odata.id": "Field('704')",
+            "FieldKey": "704",
+            "FieldName": "MainOfficeKey"
+        },
+        {
+            "@odata.id": "Field('587')",
+            "FieldKey": "587",
+            "FieldName": "MaintenanceExpense"
+        },
+        {
+            "@odata.id": "Field('139')",
+            "FieldKey": "139",
+            "FieldName": "MajorChangeTimestamp"
+        },
+        {
+            "@odata.id": "Field('304')",
+            "FieldKey": "304",
+            "FieldName": "MapColumn"
+        },
+        {
+            "@odata.id": "Field('300')",
+            "FieldKey": "300",
+            "FieldName": "MapOldColumn"
+        },
+        {
+            "@odata.id": "Field('301')",
+            "FieldKey": "301",
+            "FieldName": "MapOldPage"
+        },
+        {
+            "@odata.id": "Field('302')",
+            "FieldKey": "302",
+            "FieldName": "MapOldRow"
+        },
+        {
+            "@odata.id": "Field('305')",
+            "FieldKey": "305",
+            "FieldName": "MapPage"
+        },
+        {
+            "@odata.id": "Field('306')",
+            "FieldKey": "306",
+            "FieldName": "MapRow"
+        },
+        {
+            "@odata.id": "Field('140')",
+            "FieldKey": "140",
+            "FieldName": "MapURL"
+        },
+        {
+            "@odata.id": "Field('395')",
+            "FieldKey": "395",
+            "FieldName": "MaximumRentalMonthsTerm"
+        },
+        {
+            "@odata.id": "Field('696')",
+            "FieldKey": "696",
+            "FieldName": "MediaChangeTimestamp"
+        },
+        {
+            "@odata.id": "Field('1349')",
+            "FieldKey": "1349",
+            "FieldName": "MediaListingKey"
+        },
+        {
+            "@odata.id": "Field('303')",
+            "FieldKey": "303",
+            "FieldName": "MinimumRentalTermMonths"
+        },
+        {
+            "@odata.id": "Field('441')",
+            "FieldKey": "441",
+            "FieldName": "MLSAreaDistrictOldZone"
+        },
+        {
+            "@odata.id": "Field('257')",
+            "FieldKey": "257",
+            "FieldName": "MLSAreaDistrictToronto"
+        },
+        {
+            "@odata.id": "Field('308')",
+            "FieldKey": "308",
+            "FieldName": "MLSAreaMunicipalityDistrict"
+        },
+        {
+            "@odata.id": "Field('141')",
+            "FieldKey": "141",
+            "FieldName": "MlsStatus"
+        },
+        {
+            "@odata.id": "Field('142')",
+            "FieldKey": "142",
+            "FieldName": "ModificationTimestamp"
+        },
+        {
+            "@odata.id": "Field('307')",
+            "FieldKey": "307",
+            "FieldName": "MortgageComment"
+        },
+        {
+            "@odata.id": "Field('1343')",
+            "FieldKey": "1343",
+            "FieldName": "MUI"
+        },
+        {
+            "@odata.id": "Field('143')",
+            "FieldKey": "143",
+            "FieldName": "NetOperatingIncome"
+        },
+        {
+            "@odata.id": "Field('144')",
+            "FieldKey": "144",
+            "FieldName": "NewConstructionYN"
+        },
+        {
+            "@odata.id": "Field('145')",
+            "FieldKey": "145",
+            "FieldName": "NumberOfFullTimeEmployees"
+        },
+        {
+            "@odata.id": "Field('309')",
+            "FieldKey": "309",
+            "FieldName": "NumberOfKitchens"
+        },
+        {
+            "@odata.id": "Field('355')",
+            "FieldKey": "355",
+            "FieldName": "NumberSharesPercent"
+        },
+        {
+            "@odata.id": "Field('146')",
+            "FieldKey": "146",
+            "FieldName": "OccupantType"
+        },
+        {
+            "@odata.id": "Field('1508')",
+            "FieldKey": "1508",
+            "FieldName": "OfferRemarks"
+        },
+        {
+            "@odata.id": "Field('310')",
+            "FieldKey": "310",
+            "FieldName": "OfficeApartmentArea"
+        },
+        {
+            "@odata.id": "Field('312')",
+            "FieldKey": "312",
+            "FieldName": "OfficeApartmentAreaUnit"
+        },
+        {
+            "@odata.id": "Field('255')",
+            "FieldKey": "255",
+            "FieldName": "OldPhotoInstructions"
+        },
+        {
+            "@odata.id": "Field('554')",
+            "FieldKey": "554",
+            "FieldName": "OpenHouseDate"
+        },
+        {
+            "@odata.id": "Field('555')",
+            "FieldKey": "555",
+            "FieldName": "OpenHouseEndTime"
+        },
+        {
+            "@odata.id": "Field('556')",
+            "FieldKey": "556",
+            "FieldName": "OpenHouseNotes"
+        },
+        {
+            "@odata.id": "Field('557')",
+            "FieldKey": "557",
+            "FieldName": "OpenHouseRemarks"
+        },
+        {
+            "@odata.id": "Field('558')",
+            "FieldKey": "558",
+            "FieldName": "OpenHouseStartTime"
+        },
+        {
+            "@odata.id": "Field('147')",
+            "FieldKey": "147",
+            "FieldName": "OperatingExpense"
+        },
+        {
+            "@odata.id": "Field('148')",
+            "FieldKey": "148",
+            "FieldName": "OriginalEntryTimestamp"
+        },
+        {
+            "@odata.id": "Field('149')",
+            "FieldKey": "149",
+            "FieldName": "OriginalListPrice"
+        },
+        {
+            "@odata.id": "Field('314')",
+            "FieldKey": "314",
+            "FieldName": "OriginalListPriceUnit"
+        },
+        {
+            "@odata.id": "Field('150')",
+            "FieldKey": "150",
+            "FieldName": "OriginatingSystemID"
+        },
+        {
+            "@odata.id": "Field('151')",
+            "FieldKey": "151",
+            "FieldName": "OriginatingSystemKey"
+        },
+        {
+            "@odata.id": "Field('152')",
+            "FieldKey": "152",
+            "FieldName": "OriginatingSystemName"
+        },
+        {
+            "@odata.id": "Field('895')",
+            "FieldKey": "895",
+            "FieldName": "OtherArea"
+        },
+        {
+            "@odata.id": "Field('153')",
+            "FieldKey": "153",
+            "FieldName": "OtherExpense"
+        },
+        {
+            "@odata.id": "Field('155')",
+            "FieldKey": "155",
+            "FieldName": "OtherStructures"
+        },
+        {
+            "@odata.id": "Field('316')",
+            "FieldKey": "316",
+            "FieldName": "OutOfAreaMunicipality"
+        },
+        {
+            "@odata.id": "Field('315')",
+            "FieldKey": "315",
+            "FieldName": "OutsideStorageYN"
+        },
+        {
+            "@odata.id": "Field('156')",
+            "FieldKey": "156",
+            "FieldName": "OwnerName"
+        },
+        {
+            "@odata.id": "Field('158')",
+            "FieldKey": "158",
+            "FieldName": "ParcelNumber"
+        },
+        {
+            "@odata.id": "Field('1682')",
+            "FieldKey": "1682",
+            "FieldName": "ParcelNumber2"
+        },
+        {
+            "@odata.id": "Field('333')",
+            "FieldKey": "333",
+            "FieldName": "ParcelOfTiedLand"
+        },
+        {
+            "@odata.id": "Field('659')",
+            "FieldKey": "659",
+            "FieldName": "ParkingFeatures"
+        },
+        {
+            "@odata.id": "Field('319')",
+            "FieldKey": "319",
+            "FieldName": "ParkingLevelUnit1"
+        },
+        {
+            "@odata.id": "Field('320')",
+            "FieldKey": "320",
+            "FieldName": "ParkingLevelUnit2"
+        },
+        {
+            "@odata.id": "Field('317')",
+            "FieldKey": "317",
+            "FieldName": "ParkingMonthlyCost"
+        },
+        {
+            "@odata.id": "Field('323')",
+            "FieldKey": "323",
+            "FieldName": "ParkingSpaces"
+        },
+        {
+            "@odata.id": "Field('321')",
+            "FieldKey": "321",
+            "FieldName": "ParkingSpot1"
+        },
+        {
+            "@odata.id": "Field('322')",
+            "FieldKey": "322",
+            "FieldName": "ParkingSpot2"
+        },
+        {
+            "@odata.id": "Field('160')",
+            "FieldKey": "160",
+            "FieldName": "ParkingTotal"
+        },
+        {
+            "@odata.id": "Field('660')",
+            "FieldKey": "660",
+            "FieldName": "ParkingType1"
+        },
+        {
+            "@odata.id": "Field('661')",
+            "FieldKey": "661",
+            "FieldName": "ParkingType2"
+        },
+        {
+            "@odata.id": "Field('325')",
+            "FieldKey": "325",
+            "FieldName": "PaymentFrequency"
+        },
+        {
+            "@odata.id": "Field('326')",
+            "FieldKey": "326",
+            "FieldName": "PaymentMethod"
+        },
+        {
+            "@odata.id": "Field('327')",
+            "FieldKey": "327",
+            "FieldName": "PercentBuilding"
+        },
+        {
+            "@odata.id": "Field('328')",
+            "FieldKey": "328",
+            "FieldName": "PercentListPrice"
+        },
+        {
+            "@odata.id": "Field('329')",
+            "FieldKey": "329",
+            "FieldName": "PercentRent"
+        },
+        {
+            "@odata.id": "Field('330')",
+            "FieldKey": "330",
+            "FieldName": "PermissionToContactListingBrokerToAdvertise"
+        },
+        {
+            "@odata.id": "Field('161')",
+            "FieldKey": "161",
+            "FieldName": "PetsAllowed"
+        },
+        {
+            "@odata.id": "Field('1523')",
+            "FieldKey": "1523",
+            "FieldName": "PhasedInTaxAssessedValue"
+        },
+        {
+            "@odata.id": "Field('162')",
+            "FieldKey": "162",
+            "FieldName": "PhotosChangeTimestamp"
+        },
+        {
+            "@odata.id": "Field('331')",
+            "FieldKey": "331",
+            "FieldName": "PictureYN"
+        },
+        {
+            "@odata.id": "Field('163')",
+            "FieldKey": "163",
+            "FieldName": "PoolFeatures"
+        },
+        {
+            "@odata.id": "Field('577')",
+            "FieldKey": "577",
+            "FieldName": "PortionLeaseComments"
+        },
+        {
+            "@odata.id": "Field('565')",
+            "FieldKey": "565",
+            "FieldName": "PortionPropertyLease"
+        },
+        {
+            "@odata.id": "Field('332')",
+            "FieldKey": "332",
+            "FieldName": "PossessionDate"
+        },
+        {
+            "@odata.id": "Field('311')",
+            "FieldKey": "311",
+            "FieldName": "PossessionDetails"
+        },
+        {
+            "@odata.id": "Field('1538')",
+            "FieldKey": "1538",
+            "FieldName": "PossessionType"
+        },
+        {
+            "@odata.id": "Field('165')",
+            "FieldKey": "165",
+            "FieldName": "PostalCode"
+        },
+        {
+            "@odata.id": "Field('166')",
+            "FieldKey": "166",
+            "FieldName": "PreviousListPrice"
+        },
+        {
+            "@odata.id": "Field('167')",
+            "FieldKey": "167",
+            "FieldName": "PriceChangeTimestamp"
+        },
+        {
+            "@odata.id": "Field('695')",
+            "FieldKey": "695",
+            "FieldName": "PriorMlsStatus"
+        },
+        {
+            "@odata.id": "Field('334')",
+            "FieldKey": "334",
+            "FieldName": "PriorPriceCode"
+        },
+        {
+            "@odata.id": "Field('1277')",
+            "FieldKey": "1277",
+            "FieldName": "PriorPriceCodeStatus"
+        },
+        {
+            "@odata.id": "Field('564')",
+            "FieldKey": "564",
+            "FieldName": "PrivateEntranceYN"
+        },
+        {
+            "@odata.id": "Field('168')",
+            "FieldKey": "168",
+            "FieldName": "PrivateRemarks"
+        },
+        {
+            "@odata.id": "Field('169')",
+            "FieldKey": "169",
+            "FieldName": "ProfessionalManagementExpense"
+        },
+        {
+            "@odata.id": "Field('170')",
+            "FieldKey": "170",
+            "FieldName": "PropertyAttachedYN"
+        },
+        {
+            "@odata.id": "Field('336')",
+            "FieldKey": "336",
+            "FieldName": "PropertyFeatures"
+        },
+        {
+            "@odata.id": "Field('337')",
+            "FieldKey": "337",
+            "FieldName": "PropertyManagementCompany"
+        },
+        {
+            "@odata.id": "Field('171')",
+            "FieldKey": "171",
+            "FieldName": "PropertySubType"
+        },
+        {
+            "@odata.id": "Field('172')",
+            "FieldKey": "172",
+            "FieldName": "PropertyType"
+        },
+        {
+            "@odata.id": "Field('338')",
+            "FieldKey": "338",
+            "FieldName": "PropertyUse"
+        },
+        {
+            "@odata.id": "Field('173')",
+            "FieldKey": "173",
+            "FieldName": "PublicRemarks"
+        },
+        {
+            "@odata.id": "Field('271')",
+            "FieldKey": "271",
+            "FieldName": "PublicRemarksExtras"
+        },
+        {
+            "@odata.id": "Field('174')",
+            "FieldKey": "174",
+            "FieldName": "PurchaseContractDate"
+        },
+        {
+            "@odata.id": "Field('339')",
+            "FieldKey": "339",
+            "FieldName": "Rail"
+        },
+        {
+            "@odata.id": "Field('340')",
+            "FieldKey": "340",
+            "FieldName": "RecreationRoomYN"
+        },
+        {
+            "@odata.id": "Field('342')",
+            "FieldKey": "342",
+            "FieldName": "ReferencesRequiredYN"
+        },
+        {
+            "@odata.id": "Field('221')",
+            "FieldKey": "221",
+            "FieldName": "RentalApplicationYN"
+        },
+        {
+            "@odata.id": "Field('726')",
+            "FieldKey": "726",
+            "FieldName": "RentalItems"
+        },
+        {
+            "@odata.id": "Field('1553')",
+            "FieldKey": "1553",
+            "FieldName": "RentalItemsMonthlyCost"
+        },
+        {
+            "@odata.id": "Field('175')",
+            "FieldKey": "175",
+            "FieldName": "RentIncludes"
+        },
+        {
+            "@odata.id": "Field('343')",
+            "FieldKey": "343",
+            "FieldName": "RetailArea"
+        },
+        {
+            "@odata.id": "Field('344')",
+            "FieldKey": "344",
+            "FieldName": "RetailAreaCode"
+        },
+        {
+            "@odata.id": "Field('1526')",
+            "FieldKey": "1526",
+            "FieldName": "RoadAccessFee"
+        },
+        {
+            "@odata.id": "Field('225')",
+            "FieldKey": "225",
+            "FieldName": "RollNumber"
+        },
+        {
+            "@odata.id": "Field('1213')",
+            "FieldKey": "1213",
+            "FieldName": "Roof"
+        },
+        {
+            "@odata.id": "Field('1625')",
+            "FieldKey": "1625",
+            "FieldName": "RoomHeight"
+        },
+        {
+            "@odata.id": "Field('345')",
+            "FieldKey": "345",
+            "FieldName": "RoomsAboveGrade"
+        },
+        {
+            "@odata.id": "Field('346')",
+            "FieldKey": "346",
+            "FieldName": "RoomsBelowGrade"
+        },
+        {
+            "@odata.id": "Field('177')",
+            "FieldKey": "177",
+            "FieldName": "RoomsTotal"
+        },
+        {
+            "@odata.id": "Field('176')",
+            "FieldKey": "176",
+            "FieldName": "RoomType"
+        },
+        {
+            "@odata.id": "Field('347')",
+            "FieldKey": "347",
+            "FieldName": "RuralUtilities"
+        },
+        {
+            "@odata.id": "Field('350')",
+            "FieldKey": "350",
+            "FieldName": "SalesBrochureUrl"
+        },
+        {
+            "@odata.id": "Field('351')",
+            "FieldKey": "351",
+            "FieldName": "SaunaYN"
+        },
+        {
+            "@odata.id": "Field('1517')",
+            "FieldKey": "1517",
+            "FieldName": "SeasonalDwelling"
+        },
+        {
+            "@odata.id": "Field('178')",
+            "FieldKey": "178",
+            "FieldName": "SeatingCapacity"
+        },
+        {
+            "@odata.id": "Field('179')",
+            "FieldKey": "179",
+            "FieldName": "SecurityFeatures"
+        },
+        {
+            "@odata.id": "Field('180')",
+            "FieldKey": "180",
+            "FieldName": "SeniorCommunityYN"
+        },
+        {
+            "@odata.id": "Field('588')",
+            "FieldKey": "588",
+            "FieldName": "Sewage"
+        },
+        {
+            "@odata.id": "Field('181')",
+            "FieldKey": "181",
+            "FieldName": "Sewer"
+        },
+        {
+            "@odata.id": "Field('569')",
+            "FieldKey": "569",
+            "FieldName": "SewerYNA"
+        },
+        {
+            "@odata.id": "Field('584')",
+            "FieldKey": "584",
+            "FieldName": "Shoreline"
+        },
+        {
+            "@odata.id": "Field('582')",
+            "FieldKey": "582",
+            "FieldName": "ShorelineAllowance"
+        },
+        {
+            "@odata.id": "Field('583')",
+            "FieldKey": "583",
+            "FieldName": "ShorelineExposure"
+        },
+        {
+            "@odata.id": "Field('222')",
+            "FieldKey": "222",
+            "FieldName": "ShowingAppointments"
+        },
+        {
+            "@odata.id": "Field('1249')",
+            "FieldKey": "1249",
+            "FieldName": "ShowingRequirements"
+        },
+        {
+            "@odata.id": "Field('1610')",
+            "FieldKey": "1610",
+            "FieldName": "SignOnPropertyYN"
+        },
+        {
+            "@odata.id": "Field('376')",
+            "FieldKey": "376",
+            "FieldName": "SoilTest"
+        },
+        {
+            "@odata.id": "Field('1622')",
+            "FieldKey": "1622",
+            "FieldName": "SoilType"
+        },
+        {
+            "@odata.id": "Field('377')",
+            "FieldKey": "377",
+            "FieldName": "SoldArea"
+        },
+        {
+            "@odata.id": "Field('348')",
+            "FieldKey": "348",
+            "FieldName": "SoldAreaCode"
+        },
+        {
+            "@odata.id": "Field('379')",
+            "FieldKey": "379",
+            "FieldName": "SoldAreaUnits"
+        },
+        {
+            "@odata.id": "Field('732')",
+            "FieldKey": "732",
+            "FieldName": "SoldAreaUnitsHold"
+        },
+        {
+            "@odata.id": "Field('712')",
+            "FieldKey": "712",
+            "FieldName": "SoldConditionalEntryTimestamp"
+        },
+        {
+            "@odata.id": "Field('713')",
+            "FieldKey": "713",
+            "FieldName": "SoldEntryTimestamp"
+        },
+        {
+            "@odata.id": "Field('378')",
+            "FieldKey": "378",
+            "FieldName": "SoundBiteUrl"
+        },
+        {
+            "@odata.id": "Field('182')",
+            "FieldKey": "182",
+            "FieldName": "SourceSystemID"
+        },
+        {
+            "@odata.id": "Field('183')",
+            "FieldKey": "183",
+            "FieldName": "SourceSystemName"
+        },
+        {
+            "@odata.id": "Field('184')",
+            "FieldKey": "184",
+            "FieldName": "SpaYN"
+        },
+        {
+            "@odata.id": "Field('381')",
+            "FieldKey": "381",
+            "FieldName": "SpecialDesignation"
+        },
+        {
+            "@odata.id": "Field('383')",
+            "FieldKey": "383",
+            "FieldName": "SquareFootSource"
+        },
+        {
+            "@odata.id": "Field('384')",
+            "FieldKey": "384",
+            "FieldName": "SquashRacquet"
+        },
+        {
+            "@odata.id": "Field('386')",
+            "FieldKey": "386",
+            "FieldName": "StaffComments"
+        },
+        {
+            "@odata.id": "Field('186')",
+            "FieldKey": "186",
+            "FieldName": "StandardStatus"
+        },
+        {
+            "@odata.id": "Field('187')",
+            "FieldKey": "187",
+            "FieldName": "StateOrProvince"
+        },
+        {
+            "@odata.id": "Field('387')",
+            "FieldKey": "387",
+            "FieldName": "StatisCauseInternal"
+        },
+        {
+            "@odata.id": "Field('389')",
+            "FieldKey": "389",
+            "FieldName": "Status_aur"
+        },
+        {
+            "@odata.id": "Field('390')",
+            "FieldKey": "390",
+            "FieldName": "StatusCertificateYN"
+        },
+        {
+            "@odata.id": "Field('1616')",
+            "FieldKey": "1616",
+            "FieldName": "StreetDirPrefix"
+        },
+        {
+            "@odata.id": "Field('189')",
+            "FieldKey": "189",
+            "FieldName": "StreetDirSuffix"
+        },
+        {
+            "@odata.id": "Field('190')",
+            "FieldKey": "190",
+            "FieldName": "StreetName"
+        },
+        {
+            "@odata.id": "Field('191')",
+            "FieldKey": "191",
+            "FieldName": "StreetNumber"
+        },
+        {
+            "@odata.id": "Field('193')",
+            "FieldKey": "193",
+            "FieldName": "StreetSuffix"
+        },
+        {
+            "@odata.id": "Field('385')",
+            "FieldKey": "385",
+            "FieldName": "StreetSuffixCode"
+        },
+        {
+            "@odata.id": "Field('194')",
+            "FieldKey": "194",
+            "FieldName": "StructureType"
+        },
+        {
+            "@odata.id": "Field('392')",
+            "FieldKey": "392",
+            "FieldName": "SurveyAvailableYN"
+        },
+        {
+            "@odata.id": "Field('1511')",
+            "FieldKey": "1511",
+            "FieldName": "SurveyType"
+        },
+        {
+            "@odata.id": "Field('1514')",
+            "FieldKey": "1514",
+            "FieldName": "SurveyYear"
+        },
+        {
+            "@odata.id": "Field('259')",
+            "FieldKey": "259",
+            "FieldName": "SuspendedDate"
+        },
+        {
+            "@odata.id": "Field('714')",
+            "FieldKey": "714",
+            "FieldName": "SuspendedEntryTimestamp"
+        },
+        {
+            "@odata.id": "Field('1690')",
+            "FieldKey": "1690",
+            "FieldName": "SystemModificationTimestamp"
+        },
+        {
+            "@odata.id": "Field('195')",
+            "FieldKey": "195",
+            "FieldName": "TaxAnnualAmount"
+        },
+        {
+            "@odata.id": "Field('196')",
+            "FieldKey": "196",
+            "FieldName": "TaxAssessedValue"
+        },
+        {
+            "@odata.id": "Field('197')",
+            "FieldKey": "197",
+            "FieldName": "TaxBookNumber"
+        },
+        {
+            "@odata.id": "Field('394')",
+            "FieldKey": "394",
+            "FieldName": "TaxesExpense"
+        },
+        {
+            "@odata.id": "Field('198')",
+            "FieldKey": "198",
+            "FieldName": "TaxLegalDescription"
+        },
+        {
+            "@odata.id": "Field('401')",
+            "FieldKey": "401",
+            "FieldName": "TaxType"
+        },
+        {
+            "@odata.id": "Field('199')",
+            "FieldKey": "199",
+            "FieldName": "TaxYear"
+        },
+        {
+            "@odata.id": "Field('570')",
+            "FieldKey": "570",
+            "FieldName": "TelephoneYNA"
+        },
+        {
+            "@odata.id": "Field('260')",
+            "FieldKey": "260",
+            "FieldName": "TerminatedDate"
+        },
+        {
+            "@odata.id": "Field('715')",
+            "FieldKey": "715",
+            "FieldName": "TerminatedEntryTimestamp"
+        },
+        {
+            "@odata.id": "Field('396')",
+            "FieldKey": "396",
+            "FieldName": "TimestampSQL"
+        },
+        {
+            "@odata.id": "Field('443')",
+            "FieldKey": "443",
+            "FieldName": "TMI"
+        },
+        {
+            "@odata.id": "Field('1216')",
+            "FieldKey": "1216",
+            "FieldName": "Topography"
+        },
+        {
+            "@odata.id": "Field('397')",
+            "FieldKey": "397",
+            "FieldName": "TotalExpenses"
+        },
+        {
+            "@odata.id": "Field('1628')",
+            "FieldKey": "1628",
+            "FieldName": "TotalUnfinishedArea"
+        },
+        {
+            "@odata.id": "Field('399')",
+            "FieldKey": "399",
+            "FieldName": "Town"
+        },
+        {
+            "@odata.id": "Field('400')",
+            "FieldKey": "400",
+            "FieldName": "TrailerParkingSpots"
+        },
+        {
+            "@odata.id": "Field('202')",
+            "FieldKey": "202",
+            "FieldName": "TransactionBrokerCompensation"
+        },
+        {
+            "@odata.id": "Field('514')",
+            "FieldKey": "514",
+            "FieldName": "TransactionType"
+        },
+        {
+            "@odata.id": "Field('373')",
+            "FieldKey": "373",
+            "FieldName": "TruckLevelShippingDoors"
+        },
+        {
+            "@odata.id": "Field('371')",
+            "FieldKey": "371",
+            "FieldName": "TruckLevelShippingDoorsHeightFeet"
+        },
+        {
+            "@odata.id": "Field('372')",
+            "FieldKey": "372",
+            "FieldName": "TruckLevelShippingDoorsHeightInches"
+        },
+        {
+            "@odata.id": "Field('374')",
+            "FieldKey": "374",
+            "FieldName": "TruckLevelShippingDoorsWidthFeet"
+        },
+        {
+            "@odata.id": "Field('375')",
+            "FieldKey": "375",
+            "FieldName": "TruckLevelShippingDoorsWidthInches"
+        },
+        {
+            "@odata.id": "Field('403')",
+            "FieldKey": "403",
+            "FieldName": "UFFI"
+        },
+        {
+            "@odata.id": "Field('404')",
+            "FieldKey": "404",
+            "FieldName": "UnavailableDate"
+        },
+        {
+            "@odata.id": "Field('1243')",
+            "FieldKey": "1243",
+            "FieldName": "UnderContract"
+        },
+        {
+            "@odata.id": "Field('203')",
+            "FieldKey": "203",
+            "FieldName": "UnitNumber"
+        },
+        {
+            "@odata.id": "Field('204')",
+            "FieldKey": "204",
+            "FieldName": "UnparsedAddress"
+        },
+        {
+            "@odata.id": "Field('205')",
+            "FieldKey": "205",
+            "FieldName": "Utilities"
+        },
+        {
+            "@odata.id": "Field('206')",
+            "FieldKey": "206",
+            "FieldName": "VacancyAllowance"
+        },
+        {
+            "@odata.id": "Field('405')",
+            "FieldKey": "405",
+            "FieldName": "VendorPropertyInfoStatement"
+        },
+        {
+            "@odata.id": "Field('1222')",
+            "FieldKey": "1222",
+            "FieldName": "View"
+        },
+        {
+            "@odata.id": "Field('398')",
+            "FieldKey": "398",
+            "FieldName": "VirtualTourFlagYN"
+        },
+        {
+            "@odata.id": "Field('1604')",
+            "FieldKey": "1604",
+            "FieldName": "VirtualTourURLBranded"
+        },
+        {
+            "@odata.id": "Field('1607')",
+            "FieldKey": "1607",
+            "FieldName": "VirtualTourURLBranded2"
+        },
+        {
+            "@odata.id": "Field('207')",
+            "FieldKey": "207",
+            "FieldName": "VirtualTourURLUnbranded"
+        },
+        {
+            "@odata.id": "Field('1631')",
+            "FieldKey": "1631",
+            "FieldName": "VirtualTourURLUnbranded2"
+        },
+        {
+            "@odata.id": "Field('573')",
+            "FieldKey": "573",
+            "FieldName": "Volts"
+        },
+        {
+            "@odata.id": "Field('417')",
+            "FieldKey": "417",
+            "FieldName": "WashroomsType1"
+        },
+        {
+            "@odata.id": "Field('418')",
+            "FieldKey": "418",
+            "FieldName": "WashroomsType1Level"
+        },
+        {
+            "@odata.id": "Field('412')",
+            "FieldKey": "412",
+            "FieldName": "WashroomsType1Pcs"
+        },
+        {
+            "@odata.id": "Field('419')",
+            "FieldKey": "419",
+            "FieldName": "WashroomsType2"
+        },
+        {
+            "@odata.id": "Field('420')",
+            "FieldKey": "420",
+            "FieldName": "WashroomsType2Level"
+        },
+        {
+            "@odata.id": "Field('413')",
+            "FieldKey": "413",
+            "FieldName": "WashroomsType2Pcs"
+        },
+        {
+            "@odata.id": "Field('421')",
+            "FieldKey": "421",
+            "FieldName": "WashroomsType3"
+        },
+        {
+            "@odata.id": "Field('422')",
+            "FieldKey": "422",
+            "FieldName": "WashroomsType3Level"
+        },
+        {
+            "@odata.id": "Field('414')",
+            "FieldKey": "414",
+            "FieldName": "WashroomsType3Pcs"
+        },
+        {
+            "@odata.id": "Field('423')",
+            "FieldKey": "423",
+            "FieldName": "WashroomsType4"
+        },
+        {
+            "@odata.id": "Field('424')",
+            "FieldKey": "424",
+            "FieldName": "WashroomsType4Level"
+        },
+        {
+            "@odata.id": "Field('415')",
+            "FieldKey": "415",
+            "FieldName": "WashroomsType4Pcs"
+        },
+        {
+            "@odata.id": "Field('425')",
+            "FieldKey": "425",
+            "FieldName": "WashroomsType5"
+        },
+        {
+            "@odata.id": "Field('426')",
+            "FieldKey": "426",
+            "FieldName": "WashroomsType5Level"
+        },
+        {
+            "@odata.id": "Field('416')",
+            "FieldKey": "416",
+            "FieldName": "WashroomsType5Pcs"
+        },
+        {
+            "@odata.id": "Field('592')",
+            "FieldKey": "592",
+            "FieldName": "Water"
+        },
+        {
+            "@odata.id": "Field('208')",
+            "FieldKey": "208",
+            "FieldName": "WaterBodyName"
+        },
+        {
+            "@odata.id": "Field('410')",
+            "FieldKey": "410",
+            "FieldName": "WaterBodyType"
+        },
+        {
+            "@odata.id": "Field('407')",
+            "FieldKey": "407",
+            "FieldName": "WaterDeliveryFeature"
+        },
+        {
+            "@odata.id": "Field('408')",
+            "FieldKey": "408",
+            "FieldName": "WaterExpense"
+        },
+        {
+            "@odata.id": "Field('411')",
+            "FieldKey": "411",
+            "FieldName": "Waterfront"
+        },
+        {
+            "@odata.id": "Field('406')",
+            "FieldKey": "406",
+            "FieldName": "WaterfrontAccessory"
+        },
+        {
+            "@odata.id": "Field('409')",
+            "FieldKey": "409",
+            "FieldName": "WaterFrontageFt"
+        },
+        {
+            "@odata.id": "Field('210')",
+            "FieldKey": "210",
+            "FieldName": "WaterfrontFeatures"
+        },
+        {
+            "@odata.id": "Field('211')",
+            "FieldKey": "211",
+            "FieldName": "WaterfrontYN"
+        },
+        {
+            "@odata.id": "Field('1541')",
+            "FieldKey": "1541",
+            "FieldName": "WaterMeterYN"
+        },
+        {
+            "@odata.id": "Field('209')",
+            "FieldKey": "209",
+            "FieldName": "WaterSource"
+        },
+        {
+            "@odata.id": "Field('1198')",
+            "FieldKey": "1198",
+            "FieldName": "WaterView"
+        },
+        {
+            "@odata.id": "Field('568')",
+            "FieldKey": "568",
+            "FieldName": "WaterYNA"
+        },
+        {
+            "@odata.id": "Field('1598')",
+            "FieldKey": "1598",
+            "FieldName": "WellCapacity"
+        },
+        {
+            "@odata.id": "Field('1601')",
+            "FieldKey": "1601",
+            "FieldName": "WellDepth"
+        },
+        {
+            "@odata.id": "Field('1520')",
+            "FieldKey": "1520",
+            "FieldName": "Winterized"
+        },
+        {
+            "@odata.id": "Field('431')",
+            "FieldKey": "431",
+            "FieldName": "Year1LeasePrice"
+        },
+        {
+            "@odata.id": "Field('432')",
+            "FieldKey": "432",
+            "FieldName": "Year1LeasePriceHold"
+        },
+        {
+            "@odata.id": "Field('433')",
+            "FieldKey": "433",
+            "FieldName": "Year2LeasePrice"
+        },
+        {
+            "@odata.id": "Field('434')",
+            "FieldKey": "434",
+            "FieldName": "Year2LeasePriceHold"
+        },
+        {
+            "@odata.id": "Field('435')",
+            "FieldKey": "435",
+            "FieldName": "Year3LeasePrice"
+        },
+        {
+            "@odata.id": "Field('436')",
+            "FieldKey": "436",
+            "FieldName": "Year3LeasePriceHold"
+        },
+        {
+            "@odata.id": "Field('437')",
+            "FieldKey": "437",
+            "FieldName": "Year4LeasePrice"
+        },
+        {
+            "@odata.id": "Field('438')",
+            "FieldKey": "438",
+            "FieldName": "Year4LeasePriceHold"
+        },
+        {
+            "@odata.id": "Field('439')",
+            "FieldKey": "439",
+            "FieldName": "Year5LeasePrice"
+        },
+        {
+            "@odata.id": "Field('440')",
+            "FieldKey": "440",
+            "FieldName": "Year5LeasePriceHold"
+        },
+        {
+            "@odata.id": "Field('1544')",
+            "FieldKey": "1544",
+            "FieldName": "YearBuilt"
+        },
+        {
+            "@odata.id": "Field('1547')",
+            "FieldKey": "1547",
+            "FieldName": "YearBuiltSource"
+        },
+        {
+            "@odata.id": "Field('430')",
+            "FieldKey": "430",
+            "FieldName": "YearExpenses"
+        },
+        {
+            "@odata.id": "Field('585')",
+            "FieldKey": "585",
+            "FieldName": "Zoning"
+        },
+        {
+            "@odata.id": "Field('442')",
+            "FieldKey": "442",
+            "FieldName": "ZoningDesignation"
+        }
+    ]
+}

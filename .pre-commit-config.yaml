@@ -1,0 +1,16 @@
+repos:
+  - repo: https://github.com/pre-commit/mirrors-mypy
+    rev: v1.4.1  # Use the latest version of mypy
+    hooks:
+      - id: mypy
+
+  - repo: https://github.com/charliermarsh/ruff-pre-commit
+    rev: v0.44.0  # Use the latest version of ruff
+    hooks:
+      - id: ruff
+
+  - repo: https://github.com/sqlfluff/sqlfluff
+    rev: 2.1.0  # Use the latest version of sqlfluff
+    hooks:
+      - id: sqlfluff-lint
+        args: [--dialect, postgres]  # Specify your SQL dialect (e.g., postgres, mysql, etc.)
