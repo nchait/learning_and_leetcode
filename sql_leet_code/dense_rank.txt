@@ -1,0 +1,4 @@
+RANK assigns the same rank to tied rows and skips the 
+subsequent ranks, while DENSE\_RANK assigns the same 
+rank to tied rows and increments the subsequent rank 
+sequentially without any gaps
