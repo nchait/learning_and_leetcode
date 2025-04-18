@@ -2,3 +2,4 @@ sqlfluff
 pre-commit
 mypy
 ruff
+PyPDF2

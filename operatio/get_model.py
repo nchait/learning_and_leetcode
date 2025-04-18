@@ -1,10 +1,10 @@
 import json
 print("hello")
-f = open('/Users/noahchait/Documents/python tests/test.json',)
+f = open('/Users/noahchait/Documents/python tests/learning_and_leetcode/test.json')
 dct = json.load(f)
 fields = [field["FieldName"] for field in dct['value']]
 print(len(fields))
-price_fields=[field for field in fields if "sold" in field.lower()]
+price_fields=[field for field in fields if "listagent" in field.lower()]
 print(len(price_fields))
 print(price_fields)
 # ['ClosePrice', 'ClosePriceHold', 'ListPrice', 'ListPriceUnit', 'OriginalListPrice', 

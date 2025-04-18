@@ -11,13 +11,14 @@ cols = ["ListingKey", "ContractStatus", "ClosePrice", "ModificationTimestamp", '
 # PurchaseContractDate
 col_str = ",".join(cols)
 print(col_str)
-timestamp = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(days=1) 
+timestamp = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(weeks=1) 
 formatted_timestamp = str(timestamp).replace(' ', 'T').split('.')[0] + "Z"
 full_list = []
 last_listing_key = None
 while True:
     filters = [f"ModificationTimestamp ge {formatted_timestamp}", 
-            "ClosePrice ne null"]
+            "ListAgentFullName ne null",
+            "ListAgentDirectPhone ne null"]
     # filters = ["ListingKey eq 'N12029818'"]
     if last_listing_key:
         filters.append(f"ListingKey gt '{last_listing_key}'")
