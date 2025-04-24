@@ -1,4 +1,5 @@
 *.csv
 *.pdf
+*.json
 headers_secret.json
 .venv/*
