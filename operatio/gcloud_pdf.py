@@ -229,16 +229,40 @@ def write_read(bucket_name, file_name):
     os.remove(local_file_name)
     return pdf_text
 
-
 if __name__ == "__main__":
-    pdf_folder_path = "/Users/noahchait/Documents/python tests/learning_and_leetcode/operatio/pdfs"  # Folder containing PDFs
-    # Iterate through all PDF files in the folder
-    for file_name in os.listdir(pdf_folder_path):
-        if file_name.endswith(".pdf"):
-            pdf_path = os.path.join(pdf_folder_path, file_name)
-            pdf_text = read_pdf(pdf_path)
-            # print(pdf_text)
-            if pdf_text:
-                process_pdf(pdf_text, file_name)
+    # Example usage
+    run_cloud_function({
+        "attributes": {
+            "specversion": "1.0",
+            "id": "14656529786338331",
+            "source": "//storage.googleapis.com/projects/_/buckets/listings-operatio",
+            "type": "google.cloud.storage.object.v1.finalized",
+            "datacontenttype": "application/json",
+            "subject": "objects/sold6.pdf",
+            "time": "2025-05-01T17:41:52.830639Z",
+            "bucket": "listings-operatio"
+        },
+        "data": {
+            "kind": "storage#object",
+            "id": "listings-operatio/sold6.pdf/1746121312825704",
+            "selfLink": "https://www.googleapis.com/storage/v1/b/listings-operatio/o/sold6.pdf",
+            "name": "sold6.pdf",
+            "bucket": "listings-operatio",
+            "generation": "1746121312825704",
+            "metageneration": "1",
+            "contentType": "application/pdf",
+            "timeCreated": "2025-05-01T17:41:52.830Z",
+            "updated": "2025-05-01T17:41:52.830Z",
+            "storageClass": "STANDARD",
+            "timeStorageClassUpdated": "2025-05-01T17:41:52.830Z",
+            "size": "2689616",
+            "md5Hash": "iFI2ua2R0XAL2pQExBI2fg==",
+            "mediaLink": "https://storage.googleapis.com/download/storage/v1/b/listings-operatio/o/sold6.pdf?generation=1746121312825704&alt=media",
+            "crc32c": "Hj0qyQ==",
+            "etag": "COji1+Togo0DEAE="
+        }
+    })
+
+
 
 # fix #4
