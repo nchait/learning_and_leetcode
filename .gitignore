@@ -3,3 +3,5 @@
 *.json
 headers_secret.json
 .venv/*
+operatio/json examples for azmi.zip
+*/.DS_Store

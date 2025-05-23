@@ -3,3 +3,4 @@ pre-commit
 mypy
 ruff
 PyPDF2
+requests
