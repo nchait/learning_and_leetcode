@@ -121,7 +121,7 @@ def output_csv(mappings, file_name):
 
     # print(f"Mapping has been written to {csv_file_path}")
 
-def output_json(mappings, file_name):
+def output_json_to_zoho(mappings, file_name):
     for i in range(len(mappings)):
         # URL to send the JSON data
         url = "https://www.zohoapis.com/crm/v7/functions/webhook_to_catch_lead_info/actions/execute"
@@ -182,7 +182,7 @@ def process_pdf(pdf_text, file_name):
     # mapping_list = create_mapping(split_text[4])
     # print(json.dumps(mapping_list, indent=4))
     # output_csv(mapping_list, file_name)
-    # output_json(mapping_list, file_name)
+    output_json_to_zoho(mapping_list, file_name)
 
 
 def run_cloud_function(input_dict):
@@ -246,7 +246,3 @@ if __name__ == "__main__":
         "crc32c": "Hj0qyQ==",
         "etag": "COji1+Togo0DEAE="
     })
-
-
-
-# fix #4
