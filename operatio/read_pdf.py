@@ -1,7 +1,6 @@
 from google.cloud import storage
 import PyPDF2
 import re
-import json
 import csv
 import os
 import logging
@@ -38,10 +37,10 @@ def get_numbers(line, is_coop):
     name_and_role = sections[0]
     if ", " in name_and_role:
         split_name_and_role = name_and_role.split(", ")
+        if len(split_name_and_role) > 2:
+            logging.warning(f"Unexpected format in name_and_role: {name_and_role}")
         name = split_name_and_role[0].strip()
         role = split_name_and_role[-1].strip()
-        if len(split_name_and_role) > 2:
-            logging.warning(f"Unexpected format in name_and_role: {name_and_role}. Expected format: 'Name, Role'. output: {name}, {role}")
     else:
         name = name_and_role.strip()
         role = "LISTED"
@@ -70,6 +69,7 @@ def get_numbers(line, is_coop):
             continue
         output.append((name, number_type, number, role))
     return output
+# [("name", "type", "123-456-7890", "Salesperson"), ("name", "type", "123-456-7890", "Salesperson")]
 
 def cleanup_numbers(data):
     numbers_str = data.split('LISTING CONTRACTED WITH\n')[1]
@@ -121,7 +121,7 @@ def output_csv(mappings, file_name):
 
     # print(f"Mapping has been written to {csv_file_path}")
 
-def output_json(mappings, file_name):
+def output_json_to_zoho(mappings, file_name):
     for i in range(len(mappings)):
         # URL to send the JSON data
         url = "https://www.zohoapis.com/crm/v7/functions/webhook_to_catch_lead_info/actions/execute"
@@ -181,8 +181,8 @@ def process_pdf(pdf_text, file_name):
         mapping_list += create_mapping(text)
     # mapping_list = create_mapping(split_text[4])
     # print(json.dumps(mapping_list, indent=4))
-    # output_csv(mapping_list, file_name)
-    # output_json(mapping_list, file_name)
+    output_csv(mapping_list, file_name)
+    # output_json_to_zoho(mapping_list, file_name)
 
 
 def run_cloud_function(input_dict):
@@ -236,5 +236,3 @@ if __name__ == "__main__":
             # print(pdf_text)
             if pdf_text:
                 process_pdf(pdf_text, file_name)
-
-# fix #4
